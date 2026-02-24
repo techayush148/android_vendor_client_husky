@@ -1456,6 +1456,10 @@ PRODUCT_COPY_FILES += \
     vendor/client/husky/proprietary/firmware/rgx.sh:vendor/firmware/rgx.sh:client \
     vendor/client/husky/proprietary/firmware/aw87xxx_acf.bin:vendor/firmware/aw87xxx_acf.bin:client \
     vendor/client/husky/proprietary/firmware/soc1_0_ram_wifi_1_1_hdr.bin:vendor/firmware/soc1_0_ram_wifi_1_1_hdr.bin:client \
+    vendor/client/husky/proprietary/system/app/NineKeyIme/lib/arm/libWtwdLatin.so:system/app/NineKeyIme/lib/arm/libWtwdLatin.so:client \
+    vendor/client/husky/proprietary/system/app/NineKeyIme/lib/arm/libWtwdZhuyin.so:system/app/NineKeyIme/lib/arm/libWtwdZhuyin.so:client \
+    vendor/client/husky/proprietary/system/app/NineKeyIme/lib/arm/libWtwdPinyin.so:system/app/NineKeyIme/lib/arm/libWtwdPinyin.so:client \
+    vendor/client/husky/proprietary/system/app/TT9/TT9.apk:system/app/TT9/TT9.apk:client \
     vendor/client/husky/proprietary/vendor_dlkm/etc/NOTICE.xml.gz:vendor/vendor_dlkm/etc/NOTICE.xml.gz:client \
     vendor/client/husky/proprietary/vendor_dlkm/etc/build.prop:vendor/vendor_dlkm/etc/build.prop:client \
     vendor/client/husky/proprietary/app/TetheringResOverlay/TetheringResOverlay.apk:vendor/app/TetheringResOverlay/TetheringResOverlay.apk:client \
